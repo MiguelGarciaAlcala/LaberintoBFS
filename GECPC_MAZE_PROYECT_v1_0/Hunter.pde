@@ -14,6 +14,7 @@ class Hunter extends ControlGrafico
     this.dz = EInicial.coord_X;
     hunter.setTexture(textura);
     this.camino = camino;
+    // Comentario
   }
 
   public void dibujar() { 
